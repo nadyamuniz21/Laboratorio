@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1788804598 source:c:\users\nadya\documents\atividades\nome que não desaparece\nome_semsairdolugar\main.cpp
+	<GL/glut.h>
+	<iostream>
+
+1786579897 c:\users\nadya\documents\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1786579897 c:\users\nadya\documents\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
